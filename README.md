@@ -24,7 +24,7 @@ WebStudio - це адаптивний лендінг студії з розро�
 
 ## Демо
 
-👉 https://ihor-kotliarevskyi.github.io/goit-markup-hw-06/
+👉 https://ihor-kotliarevskyi.github.io/webstudio-landing
 
 ------------------------------------------------------------------------
 
